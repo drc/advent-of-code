@@ -30,10 +30,10 @@ const findSeat = async file => {
         return passId;
     });
     fs.writeFile("./seats.txt", seatNumbers.toString(), "utf-8");
-    seatNumbers.sort((a, b) => a-b);
+    seatNumbers.sort((a, b) => a - b);
     console.log(seatNumbers[220]);
     for (let i = 1; i < seatNumbers.length; i++) {
-        console.log(i, seatNumbers[i], seatNumbers[i - 1])
+        console.log(i, seatNumbers[i], seatNumbers[i - 1]);
         if (seatNumbers[i] !== seatNumbers[i - 1] + 1)
             return seatNumbers[i - 1] + 1;
     }
