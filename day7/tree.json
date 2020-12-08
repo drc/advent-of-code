@@ -1,0 +1,3134 @@
+{
+    "light red": {
+        "name": "light red",
+        "children": [
+            {
+                "name": "bright white",
+                "children": [
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "muted yellow",
+                "children": [
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "muted yellow",
+                "children": [
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "bright white": {
+        "name": "bright white",
+        "children": [
+            {
+                "name": "shiny gold",
+                "children": [
+                    {
+                        "name": "dark olive",
+                        "children": [
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "vibrant plum",
+                        "children": [
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "vibrant plum",
+                        "children": [
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "muted yellow": {
+        "name": "muted yellow",
+        "children": [
+            {
+                "name": "shiny gold",
+                "children": [
+                    {
+                        "name": "dark olive",
+                        "children": [
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "vibrant plum",
+                        "children": [
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "vibrant plum",
+                        "children": [
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "shiny gold",
+                "children": [
+                    {
+                        "name": "dark olive",
+                        "children": [
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "vibrant plum",
+                        "children": [
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "vibrant plum",
+                        "children": [
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "faded blue",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            },
+                            {
+                                "name": "dotted black",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            }
+        ]
+    },
+    "dark orange": {
+        "name": "dark orange",
+        "children": [
+            {
+                "name": "bright white",
+                "children": [
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "bright white",
+                "children": [
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "bright white",
+                "children": [
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "muted yellow",
+                "children": [
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "muted yellow",
+                "children": [
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "muted yellow",
+                "children": [
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "muted yellow",
+                "children": [
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "shiny gold",
+                        "children": [
+                            {
+                                "name": "dark olive",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "vibrant plum",
+                                "children": [
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "faded blue",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "dotted black",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "shiny gold": {
+        "name": "shiny gold",
+        "children": [
+            {
+                "name": "dark olive",
+                "children": [
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "vibrant plum",
+                "children": [
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "vibrant plum",
+                "children": [
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "faded blue",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    },
+                    {
+                        "name": "dotted black",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "faded blue": {
+        "name": "faded blue",
+        "children": []
+    },
+    "dark olive": {
+        "name": "dark olive",
+        "children": [
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "dotted black",
+                "children": []
+            },
+            {
+                "name": "dotted black",
+                "children": []
+            },
+            {
+                "name": "dotted black",
+                "children": []
+            },
+            {
+                "name": "dotted black",
+                "children": []
+            }
+        ]
+    },
+    "vibrant plum": {
+        "name": "vibrant plum",
+        "children": [
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "faded blue",
+                "children": []
+            },
+            {
+                "name": "dotted black",
+                "children": []
+            },
+            {
+                "name": "dotted black",
+                "children": []
+            },
+            {
+                "name": "dotted black",
+                "children": []
+            },
+            {
+                "name": "dotted black",
+                "children": []
+            },
+            {
+                "name": "dotted black",
+                "children": []
+            },
+            {
+                "name": "dotted black",
+                "children": []
+            }
+        ]
+    },
+    "dotted black": {
+        "name": "dotted black",
+        "children": []
+    }
+}

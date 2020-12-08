@@ -4,4 +4,8 @@ const getFile = async file => {
     return await readFile(file, "utf-8");
 };
 
-module.exports = { getFile };
+const fileToLines = file => {
+    return getFile(file).then(data => data.split("\n"));
+};
+
+module.exports = { getFile, fileToLines };

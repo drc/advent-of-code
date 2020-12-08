@@ -29,9 +29,8 @@ const findSeat = async file => {
         const passId = parseInt(rowBinary, 2) * 8 + parseInt(columnBinary, 2);
         return passId;
     });
-    fs.writeFile("./seats.txt", seatNumbers.toString(), "utf-8");
     seatNumbers.sort((a, b) => a - b);
-    console.log(seatNumbers[220]);
+    fs.writeFile("./seats.txt", seatNumbers.join("\n"), "utf-8");
     for (let i = 1; i < seatNumbers.length; i++) {
         console.log(i, seatNumbers[i], seatNumbers[i - 1]);
         if (seatNumbers[i] !== seatNumbers[i - 1] + 1)
