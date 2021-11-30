@@ -1,0 +1,23 @@
+{
+    "name": "advent-of-code",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "Here is my personal repo for [Advent of Code](https://adventofcode.com).",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/drc/advent-of-code.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/drc/advent-of-code/issues"
+    },
+    "homepage": "https://github.com/drc/advent-of-code#readme",
+    "dependencies": {
+        "get-caller-file": "^2.0.5"
+    }
+}
