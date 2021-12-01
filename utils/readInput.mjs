@@ -2,7 +2,7 @@ import path from 'path';
 import { readFileSync } from 'fs';
 import getCallerFile from 'get-caller-file';
 
-export default function() {
+export function readInput() {
   const file = path.join(path.dirname(getCallerFile()), 'input.txt').replace(/file:/, "");
   return readFileSync(file).toString();
 }
