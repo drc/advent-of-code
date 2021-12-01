@@ -47,5 +47,4 @@ assert.strictEqual(answer2, 5);
 
 const finalAnswer2 = partTwo(raw);
 
-
 console.log(`Part 2 answer: ${finalAnswer2}`);
