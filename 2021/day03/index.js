@@ -47,10 +47,44 @@ assert.strictEqual(answer, 198);
 const finalAnswer = partOne(raw);
 console.log(`Part 1 answer: ${finalAnswer}`);
 
-// const partTwo = data => {};
+const getRating = (data, element) => {
+    let elementArray = [...data];
+    let i = 0;
+    // while(elementArray.length > 1) {
+    while (elementArray.length > 1) {
+        const onesCount = elementArray.reduce(
+            (acc, val) => (val[i] === "1" ? acc + 1 : acc),
+            0
+        );
+        const commonBit =
+            onesCount > elementArray.length / 2
+                ? 1
+                : onesCount < elementArray.length / 2
+                ? 0
+                : 1;
+        const keeper = element === "o2" ? commonBit : 1 - commonBit;
+        elementArray = elementArray.filter(bit => parseInt(bit[i]) === keeper);
+        i++;
+    }
+    return elementArray[0];
+};
 
-// const answer2 = partTwo(sample);
-// assert.strictEqual(answer2, 900);
+const sampleO2RatingBinary = getRating(sample, "o2");
+const sampleO2Rating = parseInt(sampleO2RatingBinary, 2);
+assert.strictEqual(sampleO2Rating, 23);
 
-// const finalAnswer2 = partTwo(raw);
-// console.log(`Part 2 answer: ${finalAnswer2}`);
+const sampleCO2RatingBinary = getRating(sample, "co2");
+const sampleCO2Rating = parseInt(sampleCO2RatingBinary, 2);
+assert.strictEqual(sampleCO2Rating, 10);
+
+const partTwo = data => {
+    const o2 = parseInt(getRating(data, "o2"), 2);
+    const co2 = parseInt(getRating(data, "co2"), 2);
+    return o2 * co2;
+};
+
+const answer2 = partTwo(sample);
+assert.strictEqual(answer2, 230);
+
+const finalAnswer2 = partTwo(raw);
+console.log(`Part 2 answer: ${finalAnswer2}`);
