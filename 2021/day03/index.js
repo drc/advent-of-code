@@ -1,4 +1,4 @@
-import { readInput, readSampleInput } from "../../utils/readInput.mjs";
+import { readInput, readSampleInput } from "../../utils/readInput.js";
 import assert from "assert";
 
 const rawSample = readSampleInput();
