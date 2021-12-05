@@ -94,7 +94,7 @@ class BingoCard {
      * @returns {Boolean} Column is winner
      */
     _isColWinner(arr) {
-        return this._transpose(arr).some(cols => cols.every(col => col.picked));
+        return this._isRowWinner(this._transpose(arr));
     }
 }
 
