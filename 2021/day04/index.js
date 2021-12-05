@@ -8,10 +8,8 @@ const sample = rawSample.split("\n");
 const rawData = readInput();
 const raw = rawData.split("\n");
 
-console.log(sample);
-
 const getCallingNumbers = data => {
-    return data[0].split(",").map(num => parseInt(num));
+    return data[0].split(",").map(num => +num);
 };
 
 const generateCards = data => {
@@ -30,15 +28,30 @@ const generateCards = data => {
     return cardList;
 };
 
-const callingNumbers = getCallingNumbers(sample);
-console.log(callingNumbers);
+const partOne = data => {
+    const callingNumbers = getCallingNumbers(data);
 
-const cards = generateCards(sample);
+    const cards = generateCards(data);
 
-const partOne = data => {};
+    let total = 0;
+    let numIdx = 0;
+    while (total === 0) {
+        const num = callingNumbers[numIdx];
+        for (let card of cards) {
+            card.pickNumber(num);
+            if (card.isComplete()) {
+                total = card.getUnmarkedSum() * num;
+                break;
+            }
+        }
+        numIdx++;
+    }
+
+    return total;
+};
 
 const answer = partOne(sample);
-// assert.strictEqual(answer, 198);
+assert.strictEqual(answer, 4512);
 
 const finalAnswer = partOne(raw);
 console.log(`Part 1 answer: ${finalAnswer}`);
@@ -46,7 +59,7 @@ console.log(`Part 1 answer: ${finalAnswer}`);
 const partTwo = data => {};
 
 const answer2 = partTwo(sample);
-// assert.strictEqual(answer2, 230);
+// assert.strictEqual(answer2, 1924);
 
 const finalAnswer2 = partTwo(raw);
 console.log(`Part 2 answer: ${finalAnswer2}`);
