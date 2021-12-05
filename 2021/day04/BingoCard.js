@@ -2,6 +2,7 @@ class BingoCard {
     constructor() {
         this.numbers = [];
         this.lastCalled = 0;
+        this.winner = false;
     }
 
     /**
@@ -53,7 +54,8 @@ class BingoCard {
     isComplete() {
         const completedRows = this._isRowWinner(this.numbers);
         const completedColumns = this._isColWinner(this.numbers);
-        return completedRows || completedColumns;
+        this.winner = completedRows || completedColumns;
+        return this.winner;
     }
 
     /**

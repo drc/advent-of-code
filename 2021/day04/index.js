@@ -56,10 +56,32 @@ assert.strictEqual(answer, 4512);
 const finalAnswer = partOne(raw);
 console.log(`Part 1 answer: ${finalAnswer}`);
 
-const partTwo = data => {};
+const partTwo = data => {
+    const callingNumbers = getCallingNumbers(data);
+
+    let cards = generateCards(data);
+
+    let total = 0;
+    let numIdx = 0;
+    while (cards.length > 1) {
+        cards = cards.filter(card => !card.winner);
+
+        const num = callingNumbers[numIdx];
+
+        for (let card of cards) {
+            card.pickNumber(num);
+            card.isComplete();
+        }
+        numIdx++;
+    }
+
+    total = cards[0].getUnmarkedSum() * cards[0].lastCalled;
+
+    return total;
+};
 
 const answer2 = partTwo(sample);
-// assert.strictEqual(answer2, 1924);
+assert.strictEqual(answer2, 1924);
 
 const finalAnswer2 = partTwo(raw);
 console.log(`Part 2 answer: ${finalAnswer2}`);
