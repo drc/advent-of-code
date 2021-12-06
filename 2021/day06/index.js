@@ -51,8 +51,9 @@ const partTwo = (data, days) => {
     data.forEach(n => fish[n]++); 
     for (let day = 0; day < days; day++) {
         // add to 7 because we're removing first element which then makes it 6
+        // resets the counter to 6
         fish[7] += fish[0]; 
-        // remove the count at timer 0 and add to the end (reset)
+        // spawn the new number of fish that came out of 0 timer
         fish.push(fish.shift()); 
     }
     return fish.reduce((acc, val) => acc + val, 0);
