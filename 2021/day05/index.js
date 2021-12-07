@@ -1,6 +1,5 @@
 import { readInput, readSampleInput } from "../../utils/readInput.js";
 import assert from "assert";
-import { start } from "repl";
 
 const rawSample = readSampleInput();
 const sample = rawSample.split("\n");
