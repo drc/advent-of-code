@@ -30,7 +30,7 @@ const bracketCheck = data => {
             }
         }
     }
-    return undefined;
+    return stack.map(char => match[char]);
 };
 
 const partOne = data => {
@@ -42,7 +42,7 @@ const partOne = data => {
     };
     return data.reduce((acc, val) => {
         const bracket = bracketCheck(val);
-        if (bracket) {
+        if (typeof bracket === "string") {
             acc += points[bracket];
         }
         return acc;
@@ -55,10 +55,37 @@ assert.strictEqual(answer, 26397);
 const finalAnswer = partOne(raw);
 console.log(`Part 1 answer: ${finalAnswer}`);
 
-const partTwo = data => {};
+const partTwo = data => {
+    const unfinished = data.reduce((acc, val) => {
+        if (typeof bracketCheck(val) === "object") {
+            acc.push(val);
+        }
+        return acc;
+    }, []);
+    const chars = unfinished.reduce((acc, val) => {
+        const brackets = bracketCheck(val);
+        acc.push(brackets);
+        return acc;
+    }, []);
+    const pointList = chars
+        .map(list => {
+            return list.reverse().reduce((acc, val) => {
+                const points = {
+                    ")": 1,
+                    "]": 2,
+                    "}": 3,
+                    ">": 4,
+                };
+                acc = acc * 5 + points[val];
+                return acc;
+            }, 0);
+        })
+        .sort((a, b) => a - b);
+    return pointList[Math.ceil((pointList.length - 1) / 2)];
+};
 
 const answer2 = partTwo(sample);
-// assert.strictEqual(answer2, 230);
+assert.strictEqual(answer2, 288957);
 
 const finalAnswer2 = partTwo(raw);
 console.log(`Part 2 answer: ${finalAnswer2}`);
