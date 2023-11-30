@@ -37,5 +37,5 @@ func part1(input string) int {
 }
 
 func part2(input string) int {
-	return 0
+	return 1
 }
