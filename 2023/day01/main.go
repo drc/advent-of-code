@@ -44,14 +44,69 @@ func part1(input string) int {
 
 	for _, line := range lines {
 		digits := re.FindAllString(line, -1)
-		calibration_string := fmt.Sprintf("%s%s", digits[0], digits[len(digits)-1])
-		calibration, _ := strconv.Atoi(calibration_string)
+		calibrationString := fmt.Sprintf("%s%s", digits[0], digits[len(digits)-1])
+		calibration, _ := strconv.Atoi(calibrationString)
 		total += calibration
 	}
 
 	return total
 }
 
+var (
+	numberMap = map[string]int{
+		"one":   1,
+		"two":   2,
+		"three": 3,
+		"four":  4,
+		"five":  5,
+		"six":   6,
+		"seven": 7,
+		"eight": 8,
+		"nine":  9,
+	}
+)
+
 func part2(input string) int {
-	return 1
+	var total int = 0
+	var calibration int = 0
+	var firstDigitNormalized int
+	var lastDigitNormalized int
+	lines := strings.Split(input, "\n")
+	reForward := regexp.MustCompile(`\d|one|two|three|four|five|six|seven|eight|nine`)
+	reBackward := regexp.MustCompile(`\d|eno|owt|eerht|ruof|evif|xis|neves|thgie|enin`)
+
+	for _, line := range lines {
+		backwardsLine := reverse(line)
+		calibrationMapForward := reForward.FindAllString(line, -1)
+		calibrationMapBackward := reBackward.FindAllString(backwardsLine, -1)
+
+		firstDigit := numberMap[calibrationMapForward[0]]
+		lastDigit := numberMap[reverse(calibrationMapBackward[0])]
+
+		if firstDigit == 0 {
+			firstDigitNormalized, _ = strconv.Atoi(calibrationMapForward[0])
+		} else {
+			firstDigitNormalized = firstDigit
+		}
+		if lastDigit == 0 {
+			lastDigitNormalized, _ = strconv.Atoi(reverse(calibrationMapBackward[0]))
+		} else {
+			lastDigitNormalized = lastDigit
+		}
+
+		calibration, _ = strconv.Atoi(fmt.Sprintf("%d%d", firstDigitNormalized, lastDigitNormalized))
+
+		total += calibration
+	}
+	return total
+	// 54970
+}
+
+func reverse(s string) string {
+	rune_arr := []rune(s)
+	var rev []rune
+	for i := len(rune_arr) - 1; i >= 0; i-- {
+		rev = append(rev, rune_arr[i])
+	}
+	return string(rev)
 }
