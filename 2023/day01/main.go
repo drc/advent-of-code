@@ -4,6 +4,8 @@ import (
 	_ "embed"
 	"flag"
 	"fmt"
+	"regexp"
+	"strconv"
 	"strings"
 )
 
@@ -33,7 +35,21 @@ func main() {
 }
 
 func part1(input string) int {
-	return 0
+	var total int
+	lines := strings.Split(input, "\n")
+	re, err := regexp.Compile(`\d`)
+	if err != nil {
+		panic(err)
+	}
+
+	for _, line := range lines {
+		digits := re.FindAllString(line, -1)
+		calibration_string := fmt.Sprintf("%s%s", digits[0], digits[len(digits)-1])
+		calibration, _ := strconv.Atoi(calibration_string)
+		total += calibration
+	}
+
+	return total
 }
 
 func part2(input string) int {
