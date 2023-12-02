@@ -112,5 +112,31 @@ func (s Set) valid() bool {
 }
 
 func part2(input string) int {
-	return 1
+	var total int = 0
+	lines := strings.Split(input, "\n")
+
+	for _, line := range lines {
+		var maxColors Set
+		_, sets := unpackSets(line)
+		games := convToSet(sets)
+
+		for _, game := range games {
+			maxColors = findMax(&maxColors, &game)
+		}
+		total += maxColors.red * maxColors.green * maxColors.blue
+	}
+	return total
+}
+
+func findMax(max *Set, current *Set) Set {
+	if max.red < current.red {
+		max.red = current.red
+	}
+	if max.green < current.green {
+		max.green = current.green
+	}
+	if max.blue < current.blue {
+		max.blue = current.blue
+	}
+	return *max
 }

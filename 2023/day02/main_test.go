@@ -20,8 +20,9 @@ func Test_part1(t *testing.T) {
 }
 
 func Test_part2(t *testing.T) {
+	expected := 2286
 	t.Run("Test Part 2", func(t *testing.T) {
-		if got := part2(example); got != 1 {
+		if got := part2(example); got != expected {
 			t.Errorf("part2() = %v, want %v", got, 0)
 		}
 	})
