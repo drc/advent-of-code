@@ -96,14 +96,14 @@ func part2(input string) int {
 			}
 		}
 		cardNumberString := reCardNumber.FindString(card)
-		cardNumber, _ := strconv.Atoi(cardNumberString)
+		currentCard, _ := strconv.Atoi(cardNumberString)
 		numCopies := 1
-		if winnerMap[cardNumber] > 1 {
-			numCopies = winnerMap[cardNumber]
+		if winnerMap[currentCard] > 1 {
+			numCopies = winnerMap[currentCard]
 		}
 		for i := 0; i <= winsOnLine; i++ {
 			for c := 0; c < numCopies; c++ {
-				winnerMap[cardNumber+i]++
+				winnerMap[currentCard+i]++
 			}
 		}
 	}
