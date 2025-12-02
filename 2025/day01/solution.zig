@@ -147,7 +147,6 @@ fn parseMoves(allocator: std.mem.Allocator, input: []const u8) !std.ArrayList(Mo
 fn task1(allocator: std.mem.Allocator, input: []const u8) !i16 {
     var list = try parseMoves(allocator, input);
     defer list.deinit(allocator);
-    print("{}", .{list.capacity});
     const result = task1FromMoves(list.items);
     return result;
 }
