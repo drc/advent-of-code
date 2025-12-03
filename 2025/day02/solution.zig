@@ -92,6 +92,19 @@ test "day 2 example tests" {
     }
 }
 
+test "day 2 final answers" {
+    {
+        const result = try task1(file);
+        print("\nResult Task 1: {d}\n", .{result});
+        try expect(result == 23039913998);
+    }
+    {
+        const result = try task2(file);
+        print("\nResult Task 2: {d}\n", .{result});
+        try expect(result == 35950619148);
+    }
+}
+
 test "simple task 11-22" {
     const result = try task2("11-22");
     print("\nResult Task 2: {d}\n", .{result});
