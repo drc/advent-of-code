@@ -3,9 +3,12 @@ const print = std.debug.print;
 const file = @embedFile("./input.txt");
 
 pub fn main() !void {
-    var gpa = std.heap.DebugAllocator(.{}).init;
-    defer _ = gpa.deinit();
-    const allocator = gpa.allocator();
+    // var gpa = std.heap.GeneralPurposeAllocator(.{}).init;
+    // defer _ = gpa.deinit();
+    // const allocator = gpa.allocator();
+    var buffer: [128]u8 = undefined;
+    var fba = std.heap.FixedBufferAllocator.init(&buffer);
+    const allocator = fba.allocator();
 
     print("=== day 3 ===\n", .{});
     print("Result Task 1: {d}\n", .{try task1(file)});
