@@ -23,8 +23,8 @@ fn task1(input: []const u8) !i32 {
         var largest_battery: u8 = 0;
         for (0..bank.len) |i| {
             for (i + 1..bank.len) |j| {
-                const digit1 = bank[i] - '0';
-                const digit2 = bank[j] - '0';
+                const digit1 = try std.fmt.charToDigit(bank[i], 10);
+                const digit2 = try std.fmt.charToDigit(bank[j], 10);
                 const battery = digit1 * 10 + digit2;
                 if (battery > largest_battery) {
                     largest_battery = battery;
@@ -49,7 +49,7 @@ fn task2(alloc: std.mem.Allocator, input: []const u8) !i64 {
         const target_len = 12;
 
         for (bank, 0..) |char, idx| {
-            const digit = char - '0';
+            const digit = try std.fmt.charToDigit(char, 10);
             const remaining = bank.len - idx - 1; // digits left to process
 
             // remove previous digit if it's less than current and we have enough left
