@@ -7,7 +7,7 @@ pub fn main() !void {
     // defer arena.deinit();
     // const alloc = arena.allocator();
 
-    print("=== day 6 ===\n", .{});
+    print("=== day 7 ===\n", .{});
     print("Task 1: {d}\n", .{try task1(file)});
     print("Task 2: {d}\n", .{try task2(file)});
 }
