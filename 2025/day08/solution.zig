@@ -9,7 +9,7 @@ pub fn main() !void {
 
     print("=== day 8 ===\n", .{});
     print("Task 1: {d}\n", .{try task1(file, alloc)});
-    // print("Task 2: {d}\n", .{try task2(file, alloc)});
+    print("Task 2: {d}\n", .{try task2(file, alloc)});
 }
 
 const Point = struct {
@@ -89,7 +89,55 @@ fn calculateDistance(p1: Point, p2: Point) f64 {
     return std.math.hypot(std.math.hypot(dx, dy), dz);
 }
 
-fn task2() !void {}
+fn task2(input: []const u8, alloc: std.mem.Allocator) !usize {
+    var lines = std.mem.tokenizeScalar(u8, input, '\n');
+    var points = try std.ArrayList(Point).initCapacity(alloc, 10);
+    while (lines.next()) |line| {
+        var coords = std.mem.tokenizeScalar(u8, line, ',');
+        const point = Point{
+            .x = try std.fmt.parseInt(usize, coords.next().?, 10),
+            .y = try std.fmt.parseInt(usize, coords.next().?, 10),
+            .z = try std.fmt.parseInt(usize, coords.next().?, 10),
+        };
+        try points.append(alloc, point);
+    }
+
+    var pairs = try std.ArrayList([2]usize).initCapacity(alloc, 100);
+    for (0..points.items.len) |i| {
+        for (i + 1..points.items.len) |j| {
+            try pairs.append(alloc, [2]usize{ i, j });
+        }
+    }
+
+    // sort by increasing length
+    std.sort.block([2]usize, pairs.items, points.items, struct {
+        fn lessThanPair(pts: []const Point, a: [2]usize, b: [2]usize) bool {
+            const dist_a = calculateDistance(pts[a[0]], pts[a[1]]);
+            const dist_b = calculateDistance(pts[b[0]], pts[b[1]]);
+            return dist_a < dist_b;
+        }
+    }.lessThanPair);
+
+    var pair_range = try std.ArrayList(usize).initCapacity(alloc, points.items.len);
+    for (0..points.items.len) |i| {
+        try pair_range.append(alloc, i);
+    }
+
+    var circuits: usize = points.items.len;
+    var total: usize = 0;
+
+    for (pairs.items) |pair| {
+        if (root(pair_range.items, pair[0]) == root(pair_range.items, pair[1])) {
+            continue;
+        }
+        merge(pair_range.items, pair[0], pair[1]);
+        circuits -= 1;
+        if (circuits == 1) {
+            total = @as(usize, points.items[pair[0]].x) * @as(usize, points.items[pair[1]].x);
+        }
+    }
+    return total;
+}
 
 const example =
     \\162,817,812
@@ -137,9 +185,21 @@ test "Final Task 1" {
 }
 
 test "Example 2" {
-    return error.SkipZigTest;
+    var arena = std.heap.ArenaAllocator.init(std.heap.page_allocator);
+    defer arena.deinit();
+    const alloc = arena.allocator();
+    print("\n=== Test 2 ===\n\n", .{});
+    const result = try task2(example, alloc);
+    print("Result : {d}\n", .{result});
+    try expect(result == 25272);
 }
 
 test "Final Task 2" {
-    return error.SkipZigTest;
+    var arena = std.heap.ArenaAllocator.init(std.heap.page_allocator);
+    defer arena.deinit();
+    const alloc = arena.allocator();
+    print("\n=== Final 2 ===\n\n", .{});
+    const result = try task2(file, alloc);
+    print("Result : {d}\n", .{result});
+    try expect(result == 2245203960);
 }
