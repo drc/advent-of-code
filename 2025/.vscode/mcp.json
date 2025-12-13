@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"zig-docs": {
+			"command": "npx",
+			"args": [
+				"zig-mcp@1.4.0"
+			],
+			"env": {},
+			"type": "stdio"
+		}
+	},
+	"inputs": []
+}

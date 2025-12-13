@@ -51,8 +51,8 @@ fn task1(input: []const u8, alloc: std.mem.Allocator) !usize {
     for (0..points.items.len) |i| {
         try pair_range.append(alloc, i);
     }
-
-    for (pairs.items[0..@min(1000, pairs.items.len)]) |pair| {
+    const rounds: usize = if (points.items.len == 20) 10 else 1000;
+    for (pairs.items[0..@min(rounds, points.items.len)]) |pair| {
         merge(pair_range.items, pair[0], pair[1]);
     }
 
@@ -122,7 +122,7 @@ test "Example 1" {
     const alloc = arena.allocator();
     print("\n=== Test 1 ===\n\n", .{});
     const result = try task1(example, alloc);
-    print("\nResult : {d}\n", .{result});
+    print("Result : {d}\n", .{result});
     try expect(result == 40);
 }
 
@@ -132,7 +132,7 @@ test "Final Task 1" {
     const alloc = arena.allocator();
     print("\n=== Final 1 ===\n\n", .{});
     const result = try task1(file, alloc);
-    print("\nResult : {d}\n", .{result});
+    print("Result : {d}\n", .{result});
     try expect(result == 98696);
 }
 
